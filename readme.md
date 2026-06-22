@@ -18,8 +18,8 @@
 
 ## 📷 截图
 
-![程序运行截图](Emotion%20recorder/ScreenShot1.png)
-![程序运行截图](Emotion%20recorder/ScreenShot2.png)
+<img src="Emotion recorder/ScreenShot1.png" width="600">
+<img src="Emotion recorder/ScreenShot2.png" width="600">
 
 ## 🚀 快速开始
 
